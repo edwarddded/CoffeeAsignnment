@@ -1175,8 +1175,8 @@ Canvas:
   m_GameObject: {fileID: 1202421008}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 1024912120}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -1185,7 +1185,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_TargetDisplay: 0
 --- !u!224 &1202421014
 RectTransform:
@@ -1217,6 +1217,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1274560753}
+  - component: {fileID: 1274560754}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -1243,6 +1244,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!68 &1274560754
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1274560752}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -2.8347168, y: 2.0320687}
+  - {x: -2.485611, y: 10.174119}
+  - {x: -2.899538, y: 10.220114}
+  - {x: -12.493376, y: 10.093875}
+  - {x: -12.470648, y: 2.334714}
 --- !u!1001 &1327705387
 PrefabInstance:
   m_ObjectHideFlags: 0

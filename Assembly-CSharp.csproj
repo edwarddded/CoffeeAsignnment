@@ -63,11 +63,12 @@
     <Compile Include="Assets\Edward\Scripts\AutoMove.cs" />
     <Compile Include="Assets\Edward\Scripts\camerafollow.cs" />
     <Compile Include="Assets\Edward\Scripts\LevelGenerator.cs" />
+    <Compile Include="Assets\Edward\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Edward\Scripts\MoveCamera.cs" />
     <Compile Include="Assets\Edward\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Edward\Scripts\Platform.cs" />
     <Compile Include="Assets\Edward\Scripts\player.cs" />
-    <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\PlayButton.cs" />
     <None Include="Assets\Nature_pixel_art_assets\pixel_snapping_README.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/edward/Desktop/Coffee-Asignnment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

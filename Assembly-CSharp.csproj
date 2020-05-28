@@ -67,8 +67,10 @@
     <Compile Include="Assets\Edward\Scripts\MoveCamera.cs" />
     <Compile Include="Assets\Edward\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Edward\Scripts\Platform.cs" />
+    <Compile Include="Assets\Edward\Scripts\PlayButton.cs" />
     <Compile Include="Assets\Edward\Scripts\player.cs" />
-    <Compile Include="Assets\PlayButton.cs" />
+    <Compile Include="Assets\Edward\Scripts\Vaule.cs" />
+    <Compile Include="Assets\ScoreManger.cs" />
     <None Include="Assets\Nature_pixel_art_assets\pixel_snapping_README.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/edward/Desktop/Coffee-Asignnment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

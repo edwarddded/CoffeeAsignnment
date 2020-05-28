@@ -37,6 +37,10 @@ public class player : MonoBehaviour
         {
             SceneManager.LoadScene(3);
         }
+        if (other.gameObject.CompareTag("chicken"))
+        {
+            SceneManager.LoadScene(2);
+        }
     }
     void Update()
     {

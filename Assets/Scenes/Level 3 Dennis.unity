@@ -192,7 +192,7 @@ PrefabInstance:
     - target: {fileID: 5717731044397803846, guid: 8fe3e55f520a149bead3c4dc0c6b950c,
         type: 3}
       propertyPath: jumpforce
-      value: 7
+      value: 12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fe3e55f520a149bead3c4dc0c6b950c, type: 3}
@@ -3843,7 +3843,7 @@ PrefabInstance:
     - target: {fileID: 5717731044397803846, guid: 8fe3e55f520a149bead3c4dc0c6b950c,
         type: 3}
       propertyPath: jumpforce
-      value: 14
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fe3e55f520a149bead3c4dc0c6b950c, type: 3}
@@ -7707,7 +7707,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.047540665, y: -2.2226691}
+  m_Offset: {x: -0.069545746, y: -2.2226691}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -7718,7 +7718,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.9451504, y: 0.2768526}
+  m_Size: {x: 5.179323, y: 0.2768526}
   m_EdgeRadius: 0
 --- !u!212 &1924606880
 SpriteRenderer:

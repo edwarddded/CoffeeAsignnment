@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":30.132909774780275,"y":23.455171585083009,"z":-0.765625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":98.1146469116211,"orthographic":true}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":12.85133171081543,"y":-3.473240613937378,"z":-0.6125552654266357},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":72.16862487792969,"orthographic":true}
@@ -15,3 +16,6 @@
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":12.85133171081543,"y":-3.473240613937378,"z":-0.6125552654266357},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":72.16862487792969,"orthographic":true}
 >>>>>>> parent of d2c6f75... 大框架
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":82.4798583984375,"y":17.81023597717285,"z":-1.1832236051559449},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":144.68679809570313,"orthographic":true}
+>>>>>>> parent of 9be1916... move bubble

@@ -29,6 +29,13 @@ public class player : MonoBehaviour
             audioSource.Play();
 
         }
+        if (other.gameObject.CompareTag("collision"))
+        {
+            Destroy(other.gameObject);
+            audioSource.clip = audioClip;
+            audioSource.Play();
+
+        }
         if (other.gameObject.CompareTag("saw"))
         {
             SceneManager.LoadScene(2);
@@ -39,7 +46,11 @@ public class player : MonoBehaviour
         }
         if (other.gameObject.CompareTag("chicken"))
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+        if (other.gameObject.CompareTag("water"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
     void Update()

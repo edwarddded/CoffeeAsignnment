@@ -28,6 +28,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 711, y: 498}
   m_MaxSize: {x: 18006, y: 14048}
   vertical: 0
@@ -62,6 +63,12 @@ MonoBehaviour:
   vertical: 0
   controlID: 25219
 >>>>>>> parent of 9be1916... move bubble
+=======
+  m_MinSize: {x: 713, y: 498}
+  m_MaxSize: {x: 18008, y: 14048}
+  vertical: 0
+  controlID: 1554
+>>>>>>> parent of d2c6f75... 大框架
 =======
   m_MinSize: {x: 713, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
@@ -178,6 +185,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 329
 =======
   controlID: 1555
@@ -194,6 +202,9 @@ MonoBehaviour:
 =======
   controlID: 25220
 >>>>>>> parent of 9be1916... move bubble
+=======
+  controlID: 1555
+>>>>>>> parent of d2c6f75... 大框架
 =======
   controlID: 1555
 >>>>>>> parent of d2c6f75... 大框架
@@ -262,6 +273,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -8.981461, y: 16.906395, z: -0.492088}
     speed: 2
     m_Value: {x: -8.981461, y: 16.906395, z: -0.492088}
@@ -290,6 +302,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 82.33062, y: 17.841745, z: -1.1875}
 >>>>>>> parent of 9be1916... move bubble
+=======
+    m_Target: {x: -31.083096, y: -7.350019, z: -0.1015625}
+    speed: 2
+    m_Value: {x: -31.083096, y: -7.350019, z: -0.1015625}
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_Target: {x: -31.083096, y: -7.350019, z: -0.1015625}
     speed: 2
@@ -332,6 +349,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 69.61485
     speed: 2
     m_Value: 69.61485
@@ -360,6 +378,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 145.27457
 >>>>>>> parent of 9be1916... move bubble
+=======
+    m_Target: 19.161257
+    speed: 2
+    m_Value: 19.161257
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_Target: 19.161257
     speed: 2
@@ -463,6 +486,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 102, y: 124}
   m_MaxSize: {x: 4002, y: 4024}
 <<<<<<< HEAD
@@ -480,6 +504,11 @@ MonoBehaviour:
   m_ActualView: {fileID: 9}
 >>>>>>> parent of d2c6f75... 大框架
 =======
+  m_ActualView: {fileID: 9}
+>>>>>>> parent of d2c6f75... 大框架
+=======
+  m_MinSize: {x: 102, y: 124}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 9}
 >>>>>>> parent of d2c6f75... 大框架
 =======
@@ -557,6 +586,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSelectedObjectID: 10934
 =======
   m_LastSelectedObjectID: 68106
@@ -573,6 +603,9 @@ MonoBehaviour:
 =======
   m_LastSelectedObjectID: -99324
 >>>>>>> parent of 9be1916... move bubble
+=======
+  m_LastSelectedObjectID: 68106
+>>>>>>> parent of d2c6f75... 大框架
 =======
   m_LastSelectedObjectID: 68106
 >>>>>>> parent of d2c6f75... 大框架
@@ -606,6 +639,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 275
 =======
   controlID: 1513
@@ -622,6 +656,9 @@ MonoBehaviour:
 =======
   controlID: 25159
 >>>>>>> parent of 9be1916... move bubble
+=======
+  controlID: 1513
+>>>>>>> parent of d2c6f75... 大框架
 =======
   controlID: 1513
 >>>>>>> parent of d2c6f75... 大框架
@@ -688,6 +725,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: d6fbffffae380000
 =======
       m_ExpandedIDs: 5aa3ffff6ebeffff70beffffbabeffffded9ffffe0d9ffff56ddffff66fbffffd6fbffffe4060100640801000a0a0100
@@ -704,6 +742,9 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: 4654feffd26ffeff0475feff9678feff5e79feff249dfeffec9dfeff6eb9feff12bafeff40bafeff42bafeffba37ffffc052ffff166effff186effff5e72ffffde8dffffe08dffff2a8effff04aaffff06aaffffb2b7ffffe2d2ffff5cd3ffff68eeffff2cf5fffff4faffff34500000f6530000aed90100
 >>>>>>> parent of 9be1916... move bubble
+=======
+      m_ExpandedIDs: 5aa3ffff6ebeffff70beffffbabeffffded9ffffe0d9ffff56ddffff66fbffffd6fbffffe4060100640801000a0a0100
+>>>>>>> parent of d2c6f75... 大框架
 =======
       m_ExpandedIDs: 5aa3ffff6ebeffff70beffffbabeffffded9ffffe0d9ffff56ddffff66fbffffd6fbffffe4060100640801000a0a0100
 >>>>>>> parent of d2c6f75... 大框架
@@ -810,6 +851,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 0e0e0000
     m_LastClickedID: 3598
@@ -821,10 +863,13 @@ MonoBehaviour:
 >>>>>>> parent of d2c6f75... 大框架
 =======
 >>>>>>> parent of d2c6f75... 大框架
+=======
+>>>>>>> parent of d2c6f75... 大框架
     scrollPos: {x: 0, y: 148}
     m_SelectedIDs: 220e0000
     m_LastClickedID: 3618
     m_ExpandedIDs: 00000000c2090000aa0b0000600c00001c0e0000042d0000062d0000082d00008c07010000ca9a3b
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -844,6 +889,8 @@ MonoBehaviour:
 >>>>>>> parent of d2c6f75... 大框架
 =======
 >>>>>>> parent of 9be1916... move bubble
+=======
+>>>>>>> parent of d2c6f75... 大框架
 =======
 >>>>>>> parent of d2c6f75... 大框架
     m_RenameOverlay:
@@ -879,6 +926,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000c2090000d60b0000580c0000960c0000700e0000c86c0000ca6c0000cc6c000000ca9a3b
 =======
     m_ExpandedIDs: 00000000c2090000aa0b0000600c00001c0e0000042d0000062d0000082d00008c07010000ca9a3b
@@ -895,6 +943,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 000000001a2c0000022e0000802e0000ba2e00007c30000012320000143200001632000000ca9a3b
 >>>>>>> parent of 9be1916... move bubble
+=======
+    m_ExpandedIDs: 00000000c2090000aa0b0000600c00001c0e0000042d0000062d0000082d00008c07010000ca9a3b
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_ExpandedIDs: 00000000c2090000aa0b0000600c00001c0e0000042d0000062d0000082d00008c07010000ca9a3b
 >>>>>>> parent of d2c6f75... 大框架
@@ -922,6 +973,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -959,6 +1011,11 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
 >>>>>>> parent of d2c6f75... 大框架
+=======
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+>>>>>>> parent of d2c6f75... 大框架
     m_ExpandedInstanceIDs: c623000000000000e8280000e2e5ffff66450000000a0000fe6b02004e6c02004a41050042410500
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -989,6 +1046,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 0}
 =======
     m_ScrollPosition: {x: 0, y: 120}
@@ -1005,6 +1063,9 @@ MonoBehaviour:
 =======
     m_ScrollPosition: {x: 0, y: 85}
 >>>>>>> parent of 9be1916... move bubble
+=======
+    m_ScrollPosition: {x: 0, y: 120}
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_ScrollPosition: {x: 0, y: 120}
 >>>>>>> parent of d2c6f75... 大框架

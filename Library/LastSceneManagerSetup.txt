@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Level 2 Amy.unity
+- path: Assets/Amy/Level 2 Amy.unity
   isLoaded: 1
   isActive: 1

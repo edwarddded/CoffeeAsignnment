@@ -23,10 +23,17 @@ MonoBehaviour:
     width: 1366
     height: 635
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 711, y: 498}
   m_MaxSize: {x: 18006, y: 14048}
   vertical: 0
   controlID: 328
+=======
+  m_MinSize: {x: 713, y: 498}
+  m_MaxSize: {x: 18008, y: 14048}
+  vertical: 0
+  controlID: 1554
+>>>>>>> parent of d2c6f75... 大框架
 =======
   m_MinSize: {x: 713, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
@@ -138,7 +145,11 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 329
+=======
+  controlID: 1555
+>>>>>>> parent of d2c6f75... 大框架
 =======
   controlID: 1555
 >>>>>>> parent of d2c6f75... 大框架
@@ -202,9 +213,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -8.981461, y: 16.906395, z: -0.492088}
     speed: 2
     m_Value: {x: -8.981461, y: 16.906395, z: -0.492088}
+=======
+    m_Target: {x: -31.083096, y: -7.350019, z: -0.1015625}
+    speed: 2
+    m_Value: {x: -31.083096, y: -7.350019, z: -0.1015625}
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_Target: {x: -31.083096, y: -7.350019, z: -0.1015625}
     speed: 2
@@ -242,9 +259,15 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 69.61485
     speed: 2
     m_Value: 69.61485
+=======
+    m_Target: 19.161257
+    speed: 2
+    m_Value: 19.161257
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_Target: 19.161257
     speed: 2
@@ -347,7 +370,11 @@ MonoBehaviour:
   m_MinSize: {x: 102, y: 124}
   m_MaxSize: {x: 4002, y: 4024}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ActualView: {fileID: 8}
+=======
+  m_ActualView: {fileID: 9}
+>>>>>>> parent of d2c6f75... 大框架
 =======
   m_ActualView: {fileID: 9}
 >>>>>>> parent of d2c6f75... 大框架
@@ -411,7 +438,11 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSelectedObjectID: 10934
+=======
+  m_LastSelectedObjectID: 68106
+>>>>>>> parent of d2c6f75... 大框架
 =======
   m_LastSelectedObjectID: 68106
 >>>>>>> parent of d2c6f75... 大框架
@@ -440,7 +471,11 @@ MonoBehaviour:
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 275
+=======
+  controlID: 1513
+>>>>>>> parent of d2c6f75... 大框架
 =======
   controlID: 1513
 >>>>>>> parent of d2c6f75... 大框架
@@ -502,7 +537,11 @@ MonoBehaviour:
       m_SelectedIDs: 
       m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: d6fbffffae380000
+=======
+      m_ExpandedIDs: 5aa3ffff6ebeffff70beffffbabeffffded9ffffe0d9ffff56ddffff66fbffffd6fbffffe4060100640801000a0a0100
+>>>>>>> parent of d2c6f75... 大框架
 =======
       m_ExpandedIDs: 5aa3ffff6ebeffff70beffffbabeffffded9ffffe0d9ffff56ddffff66fbffffd6fbffffe4060100640801000a0a0100
 >>>>>>> parent of d2c6f75... 大框架
@@ -604,15 +643,21 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 0e0e0000
     m_LastClickedID: 3598
     m_ExpandedIDs: 00000000c2090000d60b0000580c0000960c0000700e0000c86c0000ca6c0000cc6c000000ca9a3b
 =======
+=======
+>>>>>>> parent of d2c6f75... 大框架
     scrollPos: {x: 0, y: 148}
     m_SelectedIDs: 220e0000
     m_LastClickedID: 3618
     m_ExpandedIDs: 00000000c2090000aa0b0000600c00001c0e0000042d0000062d0000082d00008c07010000ca9a3b
+<<<<<<< HEAD
+>>>>>>> parent of d2c6f75... 大框架
+=======
 >>>>>>> parent of d2c6f75... 大框架
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -642,7 +687,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000c2090000d60b0000580c0000960c0000700e0000c86c0000ca6c0000cc6c000000ca9a3b
+=======
+    m_ExpandedIDs: 00000000c2090000aa0b0000600c00001c0e0000042d0000062d0000082d00008c07010000ca9a3b
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_ExpandedIDs: 00000000c2090000aa0b0000600c00001c0e0000042d0000062d0000082d00008c07010000ca9a3b
 >>>>>>> parent of d2c6f75... 大框架
@@ -671,8 +720,13 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: fe400000
     m_LastClickedInstanceID: 16638
+=======
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
@@ -703,7 +757,11 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 0}
+=======
+    m_ScrollPosition: {x: 0, y: 120}
+>>>>>>> parent of d2c6f75... 大框架
 =======
     m_ScrollPosition: {x: 0, y: 120}
 >>>>>>> parent of d2c6f75... 大框架

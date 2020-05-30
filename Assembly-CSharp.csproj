@@ -63,7 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Dennis\Scripts\Water.cs" />
     <Compile Include="Assets\Edward\Scripts\AutoMove.cs" />
     <Compile Include="Assets\Edward\Scripts\camerafollow.cs" />
     <Compile Include="Assets\Edward\Scripts\LevelGenerator.cs" />

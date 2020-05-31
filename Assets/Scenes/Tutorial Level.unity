@@ -507,7 +507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfd0abb7f3b11a3468f2c1bf0c1d9c89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
+  target: {fileID: 499982379}
 --- !u!81 &475950706
 AudioListener:
   m_ObjectHideFlags: 0
@@ -812,8 +812,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 619, y: -313}
-  m_SizeDelta: {x: 1238, y: 626}
+  m_AnchoredPosition: {x: 703.5, y: -287.49997}
+  m_SizeDelta: {x: 1407, y: 575}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &738522810
 MonoBehaviour:
@@ -987,7 +987,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 10, y: -355}
+  m_AnchoredPosition: {x: 2, y: -312}
   m_SizeDelta: {x: 346.3, y: 79.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &854536208
@@ -1623,11 +1623,14 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -0.33623025, y: 1.5285704}
+  - {x: 1.369257, y: 0.6966252}
+  - {x: 1.8268231, y: 0.86301506}
   - {x: 1.7310009, y: 12.80771}
   - {x: -2.3069897, y: 12.721977}
-  - {x: -9.857733, y: 12.597736}
-  - {x: -8.770085, y: 1.7600416}
+  - {x: -6.9707193, y: 12.767558}
+  - {x: -6.7764277, y: 1.7068379}
+  - {x: -6.3981447, y: 0.9114213}
+  - {x: 1.8372151, y: 0.9696943}
 --- !u!1001 &1893996792
 PrefabInstance:
   m_ObjectHideFlags: 0
